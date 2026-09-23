@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@media print {
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+
+  header, footer, nav, button {
+    display: none !important;
+  }
+
+  #printable-certificate {
+    background-color: white !important;
+    color: black !important;
+    border: 1px solid #ccc !important;
+    box-shadow: none !important;
+  }
+
+  #printable-certificate * {
+    color: black !important;
+  }
+}

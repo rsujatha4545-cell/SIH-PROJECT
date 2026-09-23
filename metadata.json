@@ -1,0 +1,6 @@
+{
+  "name": "STAMAS - AI Bid Compliance & Evaluation Platform",
+  "description": "Enterprise tender and proposal compliance verification system with OCR, RAG clause analysis, automated rule checking, PASS/FAIL/REVIEW matrix, and FastAPI backend integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
